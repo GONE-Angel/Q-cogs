@@ -10,6 +10,7 @@ Official Red Discord guild - https://discord.gg/red (#support_othercogs)
 
 # Installation 
 ```[p]cog repo add Q-cogs https://github.com/Quintenvw/Q-cogs```
+
 ```[p]cog install Q-cogs [cog]```
 
 # Credits

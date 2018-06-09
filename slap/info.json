@@ -1,0 +1,9 @@
+{
+    "AUTHOR" : "Quintenvw",
+    "SHORT" : "Slap people with a cool gif!",
+    "DESCRIPTION" : "Slap command with cool gifs!",
+    "DISABLED" : false,
+    "NAME" : "slap",
+    "TAGS" : ["slap", "fun", "emote"],
+    "INSTALL_MSG" : "Thanks for installing my cog!\n You can find me on here if you need anything: http://join.chillbar.org/"
+}

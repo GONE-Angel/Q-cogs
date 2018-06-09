@@ -13,23 +13,18 @@ Official Red Discord guild - https://discord.gg/red (#support_othercogs)
 ```[p]cog install Q-cogs [cog]```
 
 # Credits
-```
 Moral support:
-Thanks to the amazing Chillbar members for being there for me!
--http://join.chillbar.org
-```
-```
+Thanks to the amazing [Chillbar](http://join.chillbar.org) members for being there for me!
+
+
 General support:
-Huge thanks to Redjumpman for being awesome and helping me with all problems I had!
--https://github.com/Redjumpman/
-```
-```
+Huge thanks to [Redjumpman](https://github.com/Redjumpman/) for being awesome and helping me with all problems I had!
+
+
 Slap cog:
-Thanks to HarukiGrande for giving me the base of my slap cog!
--https://github.com/HarukiGrande
-```
-```
+Thanks to [HarukiGrande](https://github.com/HarukiGrande) for giving me the base of my slap cog!
+
+
 Red bot:
-Thanks to Twentysix26 and all other devs for making Red! These cogs wouldn't exist without them!
--https://cogs.red / https://github.com/Twentysix26
-```
+Thanks to [Twentysix26](https://github.com/Twentysix26) and all other devs for making [Red](https://cogs.red)! These cogs wouldn't exist without them! 
+

@@ -1,0 +1,9 @@
+{
+    "AUTHOR" : "Quintenvw",
+    "SHORT" : "Poke people with a cool gif!",
+    "DESCRIPTION" : "Poke command with cool gifs!",
+    "DISABLED" : false,
+    "NAME" : "poke",
+    "TAGS" : ["poke", "fun", "emote"],
+    "INSTALL_MSG" : "Thanks for installing my cog!\n You can find me on here if you need anything: http://join.chillbar.org/"
+}

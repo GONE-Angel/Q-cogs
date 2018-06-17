@@ -1,6 +1,6 @@
 {
     "AUTHOR" : "Quintenvw",
-    "SHORT" : "Make a menu with reaction buttons!",
+    "SHORT" : "Make a menu with slide/scroll reaction buttons!",
     "DESCRIPTION" : "Make a menu with reaction buttons! Install the cog, use !menu and follow the steps!",
     "DISABLED" : false,
     "NAME" : "Menumaker",

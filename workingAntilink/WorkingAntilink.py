@@ -15,7 +15,7 @@ import re
 import asyncio
 
 
-class WorkingAntilink:
+class workingAntilink:
 	"""Blocks Discord invite links from users who don't have the permission 'Manage Messages'
 	can optionally block all links not just invites"""
 
@@ -184,6 +184,6 @@ def check_file():
 def setup(bot):
 	check_folder()
 	check_file()
-	n = WorkingAntilink(bot)
+	n = workingAntilink(bot)
 	bot.add_cog(n)
 	bot.add_listener(n._new_message, 'on_message')

@@ -29,3 +29,6 @@ Thanks to [HarukiGrande](https://github.com/HarukiGrande) for giving me the base
 Red bot:
 Thanks to [Twentysix26](https://github.com/Twentysix26) and all other devs for making [Red](https://cogs.red)! These cogs wouldn't exist without them! 
 
+
+WorkingAntilink:
+Thanks to [Kowlin](https://github.com/Kowlin) for making the original cog and thanks to Davin for helping me!

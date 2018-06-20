@@ -1,0 +1,9 @@
+{
+    "AUTHOR" : "Quintenvw",
+    "SHORT" : "Give someone a highfive with a cool gif!",
+    "DESCRIPTION" : "highfive command with cool gifs!",
+    "DISABLED" : false,
+    "NAME" : "highfive",
+    "TAGS" : ["high", "fun", "emote", "five"],
+    "INSTALL_MSG" : "Thanks for installing my cog!\n You can find me on here if you need anything: http://join.chillbar.org/"
+}

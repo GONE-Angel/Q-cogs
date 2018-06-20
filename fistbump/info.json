@@ -1,0 +1,9 @@
+{
+    "AUTHOR" : "Quintenvw",
+    "SHORT" : "Give someone a fistbump with a cool gif!",
+    "DESCRIPTION" : "fistbump command with cool gifs!",
+    "DISABLED" : false,
+    "NAME" : "fistbump",
+    "TAGS" : ["fist", "fun", "emote", "bump"],
+    "INSTALL_MSG" : "Thanks for installing my cog!\n You can find me on here if you need anything: http://join.chillbar.org/"
+}

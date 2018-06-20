@@ -22,8 +22,8 @@ General support:
 Huge thanks to [Redjumpman](https://github.com/Redjumpman/) for being awesome and helping me with all problems I had!
 
 
-Slap cog:
-Thanks to [HarukiGrande](https://github.com/HarukiGrande) for giving me the base of my slap cog!
+Emote cogs:
+Thanks to [HarukiGrande](https://github.com/HarukiGrande) for giving me the base of my emote cogs!
 
 
 Red bot:

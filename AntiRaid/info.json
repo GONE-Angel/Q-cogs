@@ -1,0 +1,9 @@
+{ 
+ "AUTHOR" : "Quintenvw",
+ "SHORT" : "Raid allerts!",
+ "DESCRIPTION" : "x joins in x seconds warns here in a channel!",
+ "DISABLED" : false,
+ "NAME" : "AntiRaid",
+ "TAGS" : ["Raid", "anti"],
+ "INSTALL_MSG" : "Thanks for installing my cog!\n You can find me on here if you need anything: http://join.chillbar.org/"
+}

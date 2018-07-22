@@ -17,9 +17,6 @@ from .utils.dataIO import dataIO
 
 class AntiRaid():
 
-  """Alerts Staff about possible incoming raids"""
-
-
   def __init__(self, bot):
 
       self.bot = bot

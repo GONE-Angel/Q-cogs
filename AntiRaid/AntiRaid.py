@@ -29,7 +29,7 @@ class AntiRaid():
       if (self.settings[server.id]["join_count"] >= self.settings[server.id]["max_joins"]) and reset_time <= 30:
         channel_id = self.settings[server.id]["channel"]
         channel = self.bot.get_channel(channel_id)
-        await self.bot.send_message(channel, content=":warning: @here There is a possible raid happening! :warning:")
+        await self.bot.send_message(channel, content=":warning: @staff There is a possible raid happening! :warning:")
         self.settings[server.id]["join_count"] = 0
         self.settings[server.id]["time_since_last_reset"] = str(datetime.now())
         dataIO.save_json("data/lockdown/settings.json", self.settings)

@@ -46,7 +46,7 @@ class AntiRaid():
     async def test(self, ctx):
         channel_id = self.settings[server.id]["channel"]
         channel = self.bot.get_channel(channel_id)
-        await self.bot.send_message(channel, content=":warning: <@Staff> There is a possible raid happening! :warning:")
+        await self.bot.send_message(channel, content=":warning: @Staff There is a possible raid happening! :warning:")
         
     @antiraid.command(pass_context=True, no_pm=True)
     async def channel(self, ctx, channel: discord.Channel):

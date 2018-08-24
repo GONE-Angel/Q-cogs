@@ -1,0 +1,9 @@
+{
+"AUTHOR" : "Quintenvw",
+"SHORT" : "Tickle people with a cool gif!",
+"DESCRIPTION" : "Tickle command with cool gifs!",
+"DISABLED" : false,
+"NAME" : "tickle",
+"TAGS" : ["tickle", "fun", "emote"],
+"INSTALL_MSG" : "Thanks for installing my cog!\n You can find me on here if you need anything: http://join.chillbar.org/"
+}

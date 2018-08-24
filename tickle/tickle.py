@@ -16,8 +16,6 @@ class tickle:
 
     async def tickle(self, context, member: discord.Member):
 
-        """Ttickle someone with a gif :)"""
-
         author = context.message.author.mention
 
         mention = member.mention

@@ -1,0 +1,9 @@
+{
+    "AUTHOR" : "Quintenvw",
+    "SHORT" : "Lick someone with a cool gif!",
+    "DESCRIPTION" : "Lick command with cool gifs!",
+    "DISABLED" : false,
+    "NAME" : "lick",
+    "TAGS" : ["lick", "fun", "emote"],
+    "INSTALL_MSG" : "Thanks for installing my cog!\n You can find me on here if you need anything: http://join.chillbar.org/"
+}

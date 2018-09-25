@@ -15,7 +15,7 @@ import re
 import asyncio
 
 
-class workingantilink:
+class workingAntilink:
 	"""Blocks all invite links from members unless they have the manage messages permission, can optionally also block all links in set channels."""
 
 	__author__ = "Quintenvw and Kowlin"
@@ -183,6 +183,6 @@ def check_file():
 def setup(bot):
 	check_folder()
 	check_file()
-	n = workingantilink(bot)
+	n = workingAntilink(bot)
 	bot.add_cog(n)
 	bot.add_listener(n._new_message, 'on_message')

@@ -3,7 +3,7 @@
     "SHORT" : "Block all inv's and normal links in set channels!",
     "DESCRIPTION" : "Block all inv's and normal links in set channels! Only members with the mannage messages perms can post invite links. For the rest this cog blocks all links including discord.me ones. For the rest you can enable strict to delete all links in set channels.",
     "DISABLED" : false,
-    "NAME" : "Workingantilink",
+    "NAME" : "workingAntilink",
     "TAGS" : ["anti", "link", "moderation", "invite"],
     "INSTALL_MSG" : "Thanks for installing antilink!\nNeed help or want to support me? Join my discord or the official Red cogs server! Enjoy!"
 }

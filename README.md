@@ -18,7 +18,7 @@ xx ~Q
 
 [<img src="https://discordapp.com/api/guilds/394854570926407682/widget.png?style=banner2">](http://join.chillbar.org) 
 
-[(@Quintenvw#0001)](https://discordapp.com/channels/394854570926407682/395998061639368726/505412281622986753)
+[*(@Quintenvw#0001)*](https://discordapp.com/channels/394854570926407682/395998061639368726/505412281622986753)
 
 **Red Cogs support server:**
 

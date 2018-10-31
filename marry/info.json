@@ -1,0 +1,9 @@
+{
+    "AUTHOR" : "Quintenvw",
+    "SHORT" : " Get married in discord!",
+    "DESCRIPTION" : "This cog allows you to get married!",
+    "DISABLED" : false,
+    "NAME" : "marry",
+    "TAGS" : ["married", "marriage", "wedding", "marry"],
+    "INSTALL_MSG" : "Thanks for installing my cog!\n You can find me on here if you need anything: http://join.chillbar.org/"
+}

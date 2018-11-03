@@ -13,6 +13,8 @@ I hope you enjoy using the few cogs I posted in here!
 xx ~Q
 
 
+
+
 <img src="https://i.imgur.com/LrUToD4.png">
 
 
@@ -29,11 +31,15 @@ xx ~Q
 [*(#support_othercogs)*](https://discordapp.com/channels/240154543684321280/240212783503900673/505409485041434625)
 
 
+
+
 <img src="https://i.imgur.com/raFjdIh.png">
 
 ```[p]cog repo add Q-cogs https://github.com/Quintenvw/Q-cogs```
 
 ```[p]cog install Q-cogs [cog]```
+
+
 
 <img src="https://i.imgur.com/1kBPOoJ.png">
 

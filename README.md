@@ -15,7 +15,6 @@ xx ~Q
 
 <img src="https://i.imgur.com/LrUToD4.png">
 
-# Contact
 
 **My Discord server:** 
 
@@ -32,14 +31,12 @@ xx ~Q
 
 <img src="https://i.imgur.com/raFjdIh.png">
 
-# Installation 
 ```[p]cog repo add Q-cogs https://github.com/Quintenvw/Q-cogs```
 
 ```[p]cog install Q-cogs [cog]```
 
 <img src="https://i.imgur.com/1kBPOoJ.png">
 
-# Credits
 Moral support:
 Thanks to the amazing [Chillbar](http://join.chillbar.org) members for being there for me!
 

@@ -17,7 +17,7 @@ xx ~Q
 <br>
 
 
-<img src="https://i.imgur.com/LrUToD4.png">
+[<img src="https://i.imgur.com/LrUToD4.png">](https://github.com/Quintenvw/Q-cogs/)
 
 
 **My Discord server:** 
@@ -38,7 +38,7 @@ xx ~Q
 
 
 
-<img src="https://i.imgur.com/raFjdIh.png">
+[<img src="https://i.imgur.com/raFjdIh.png">](https://github.com/Quintenvw/Q-cogs/)
 
 ```[p]cog repo add Q-cogs https://github.com/Quintenvw/Q-cogs```
 
@@ -49,7 +49,7 @@ xx ~Q
 <br>
 
 
-<img src="https://i.imgur.com/1kBPOoJ.png">
+[<img src="https://i.imgur.com/1kBPOoJ.png">](https://github.com/Quintenvw/Q-cogs/)
 
 Moral support:
 Thanks to the amazing [Chillbar](http://join.chillbar.org) members for being there for me!

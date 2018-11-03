@@ -1,4 +1,4 @@
-![intro][(https://i.imgur.com/TbX5eGx.png)](https://github.com/Quintenvw/Q-cogs/)
+![intro](https://i.imgur.com/TbX5eGx.png)
 # Q-cogs
 
 

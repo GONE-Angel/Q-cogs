@@ -11,8 +11,10 @@ If you find something in there you would like and can't find anywhere else, feel
 I hope you enjoy using the few cogs I posted in here!
 
 xx ~Q
-
-
+<br>
+<br>
+<br>
+<br>
 
 
 <img src="https://i.imgur.com/LrUToD4.png">
@@ -29,7 +31,10 @@ xx ~Q
 [<img src="https://discordapp.com/api/guilds/240154543684321280/widget.png?style=banner2">](https://discord.gg/red)
 
 [*(#support_othercogs)*](https://discordapp.com/channels/240154543684321280/240212783503900673/505409485041434625)
-
+<br>
+<br>
+<br>
+<br>
 
 
 
@@ -38,7 +43,10 @@ xx ~Q
 ```[p]cog repo add Q-cogs https://github.com/Quintenvw/Q-cogs```
 
 ```[p]cog install Q-cogs [cog]```
-
+<br>
+<br>
+<br>
+<br>
 
 
 <img src="https://i.imgur.com/1kBPOoJ.png">

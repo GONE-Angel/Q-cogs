@@ -2,7 +2,7 @@
 # Q-cogs
 
 
-Q-cogs is basically a folder of cogs for [Red](https://cogs.red) made for my server and I felt like sharing.
+[Q-cogs](https://cogs.red/cogs/Quintenvw/Q-cogs/) is basically a folder of cogs for [Red](https://cogs.red) made for my server and I felt like sharing.
 
 I make a lot of other cogs aswel, sadly enough I keep them exclusive for Chillbar.
 

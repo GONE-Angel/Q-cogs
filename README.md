@@ -1,3 +1,4 @@
+![intro](https://i.imgur.com/TbX5eGx.png)
 # Q-cogs
 
 

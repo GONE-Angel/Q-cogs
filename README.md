@@ -60,7 +60,7 @@ Huge thanks to [Redjumpman](https://github.com/Redjumpman/) for being awesome an
 
 
 Emote cogs:
-Thanks to [HarukiGrande](https://github.com/HarukiGrande) for giving me the base of my emote cogs!
+Thanks to [HarukiGrande](https://github.com/HarukiGrande) for giving me the base of my emote cogs! Thanks to ```*Void#0001``` for making the plus cog and adding emotes!
 
 
 Red bot:
